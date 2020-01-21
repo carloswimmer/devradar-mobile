@@ -29,8 +29,8 @@ yarn install
 yarn start
 ```
 
-Then, to see it working on your smartphone: 
+Finally, to see the app working on your smartphone: 
 * install the app Expo from your app store
 * open it
-* click on `read QR Code`
+* click on `Scan QR Code`
 * point to QR Code on the screen of your computer
