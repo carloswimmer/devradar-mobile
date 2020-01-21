@@ -13,9 +13,7 @@ To build this we are using React Native, Expo, Websocket.io and geolocation feat
 See the prints below:
 
 ### Mobile Screen
-![Mobile Screen](https://raw.githubusercontent.com/carloswimmer/devradar-mobile/master/screen_shots/devradar_splash.jpg) 
-![Mobile Screen](https://raw.githubusercontent.com/carloswimmer/devradar-mobile/master/screen_shots/devradar_main.jpg) 
-![Mobile Screen](https://raw.githubusercontent.com/carloswimmer/devradar-mobile/master/screen_shots/devradar_profile.jpg) 
+![Mobile Screen](https://raw.githubusercontent.com/carloswimmer/devradar-mobile/master/screen_shots/devradar_mobile.jpg) 
 
 ## Just clone, run and point
 You will need to have installed [Expo.io](https://expo.io/) globally and, to use it with yarn, include this line on `.bashrc` file:
