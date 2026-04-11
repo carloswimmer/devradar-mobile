@@ -1,6 +1,10 @@
 # DevRadar Mobile
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/carloswimmer/devradar-mobile/master/screen_shots/devradar_mobile.jpg" alt="DevRadar Mobile — map and search">
+</p>
+
+<p align="center">
   <a href="https://expo.dev"><img src="https://img.shields.io/badge/Expo-SDK%2036-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo SDK 36"></a>
   <a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React%20Native-SDK%2036-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"></a>
   <a href="https://socket.io"><img src="https://img.shields.io/badge/Socket.IO-2.x-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"></a>
@@ -9,10 +13,6 @@
 
 <p align="center">
   <strong>Find developers near you</strong> by tech stack on an interactive map — powered by geolocation and real-time updates.
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carloswimmer/devradar-mobile/master/screen_shots/devradar_mobile.jpg" alt="DevRadar Mobile — map and search" width="320">
 </p>
 
 ## Overview
