@@ -17,7 +17,7 @@
 
 ## Overview
 
-**DevRadar Mobile** is the client app for discovering developers who work with technologies you care about (React, Vue, Node, PHP, and more). It shows their positions on a map within **up to 10 km** of your location, using your device’s GPS.
+**DevRadar Mobile** is the client app for [discovering developers](https://github.com/carloswimmer/devradar-api) who work with technologies you care about (React, Vue, Node, PHP, and more). It shows their positions on a map within **up to 10 km** of your location, using your device’s GPS.
 
 ## Features
 
